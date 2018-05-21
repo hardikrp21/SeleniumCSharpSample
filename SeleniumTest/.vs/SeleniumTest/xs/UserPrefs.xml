@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D8A1CAB-975A-40EB-997A-F4DF25F38ED2}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SeleniumTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumTest/Program.cs">
+    <Files>
+      <File FileName="SeleniumTest/Program.cs" Line="62" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumTest" expanded="True" selected="True">
+            <Node name="SeleniumTest" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
